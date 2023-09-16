@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.m-2 {
+  margin: 1rem;
+}
+
+.p-2 {
+  padding: 1rem !important;
+}
